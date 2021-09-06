@@ -2,7 +2,7 @@
 <ExecutionContext xmlns="http://www.xact.dk/xatester/v/1" environment="5b508b8a787be73b59238d38" logLevel="INFO" remote="false" useSimulations="true" uploadResult="false" timeout="300" readTimeout="30" debuggerType="NONE" jobInfoInterval="3">
   <ExtensionData>
     <Parameter key="nvt_ispw_app">
-      <Value>GITE</Value>
+      <Value>GITJ</Value>
     </Parameter>
     <Parameter key="nvt_ispw_level4">
       <Value>MAIN</Value>
